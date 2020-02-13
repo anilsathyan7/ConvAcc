@@ -17,3 +17,4 @@ Accelerating convolution using numba, cupy and xnor in python.
 * [Numba: Using Stencils](https://numba.pydata.org/numba-doc/dev/user/stencil.html)
 * [Binarization of Low Level Operations in DNN](https://edu.authorcafe.com/academies/7718/binarization-of-low-level-operations-in-deep-neural-networks)
 * [Stanford:CS231n Im2Col Assignment](https://github.com/ShibiHe/Stanford-CS231n-assignments/blob/master/assignment3/cs231n/im2col.py)
+* [Introduction to CUDA in Python](https://www.vincent-lunot.com/post/an-introduction-to-cuda-in-python-part-3)
