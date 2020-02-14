@@ -1,4 +1,4 @@
-# ConvAcc
+## ConvAcc
 Accelerating convolution using numba, cupy and xnor in python.
 
 **Numba** is a just-in-time, type-specializing, **function compiler** for accelerating numerically-focused Python. It can be  typically enabled by applying a **decorator** to a python function and can compile your code for CPU or GPU. It uses **LLVM** to compile python functions **just-in-time**, under the hood. **Cupy** is a numpy-like library accelerated with CUDA. It's syntax is very similar to numpy and in most cases you can directly replace the numpy import with cupy. It allows us to write **custom kernels** in CUDA and can be easily used with numba CUDA functions.The deep learning library **chainer** uses cupy in it's backend.
@@ -9,13 +9,13 @@ In the IPython Notebook, we try to implement a **basic convolution** using pytho
 
 **Note**: The benchmarks heavily depends on the **hardware and library versions** used for experimentation.
 
-## Dependencies
+### Dependencies
 
 * Numba
 * Cupy
 * CUDA
 
-## References
+### References
 
 * [Boost Python With GPU](https://thedatafrog.com/en/boost-python-gpu)
 * [Numba: Talks and Tutorials](https://numba.pydata.org/numba-doc/dev/user/talks.html) 
