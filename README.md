@@ -10,8 +10,8 @@ In the IPython Notebook, we try to implement a **basic convolution** using pytho
 
 ### Dependencies
 
-* Numba
-* Cupy
+* Python, Numba
+* Cupy, Numpy
 * CUDA
 
 ### References
@@ -31,3 +31,4 @@ In the IPython Notebook, we try to implement a **basic convolution** using pytho
 * [Binarization of Low Level Operations in DNN](https://edu.authorcafe.com/academies/7718/binarization-of-low-level-operations-in-deep-neural-networks)
 * [Stanford:CS231n Im2Col Assignment](https://github.com/ShibiHe/Stanford-CS231n-assignments/blob/master/assignment3/cs231n/im2col.py)
 * [Introduction to CUDA in Python](https://www.vincent-lunot.com/post/an-introduction-to-cuda-in-python-part-3)
+* [Intel: Accelerating Neural Networks With Binary Arithmetic](https://software.intel.com/en-us/articles/accelerating-neural-networks-with-binary-arithmetic)
