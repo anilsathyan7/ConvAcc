@@ -32,3 +32,4 @@ In the IPython Notebook, we try to implement a **basic convolution** using pytho
 * [Stanford:CS231n Im2Col Assignment](https://github.com/ShibiHe/Stanford-CS231n-assignments/blob/master/assignment3/cs231n/im2col.py)
 * [Introduction to CUDA in Python](https://www.vincent-lunot.com/post/an-introduction-to-cuda-in-python-part-3)
 * [Intel: Accelerating Neural Networks With Binary Arithmetic](https://software.intel.com/en-us/articles/accelerating-neural-networks-with-binary-arithmetic)
+* [Here’s How to Use CuPy to Make Numpy Over 10X Faster](https://towardsdatascience.com/heres-how-to-use-cupy-to-make-numpy-700x-faster-4b920dda1f56)
